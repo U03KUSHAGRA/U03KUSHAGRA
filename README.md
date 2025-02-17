@@ -1,4 +1,4 @@
-<h2 align="left">Ahoy there. I am Kushagra.</h2>
+<h2 align="left">Ahoy there. I'm Kushagra.</h2>
 
 
   As a student with a solid technical foundation, I’ve realized that web development is my true calling, with a particular love for frontend tech. Yet, my journey doesn’t stop there—I’m diving into .NET MVC Core, eager to blend my frontend skills with the power of backend solutions.

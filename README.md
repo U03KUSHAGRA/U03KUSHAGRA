@@ -9,6 +9,6 @@ Merging UX principles with backend logic to create interfaces built on clean arc
 
 <div align="left">
   <a href="https://github.com/U03KUSHAGRA">
-    <img src="https://skillicons.dev/icons?i=python,c,java,cs,dotnet,opencv,html,css,js,mysql,postman,vscode,git,visualstudio" alt="Technology Stack and Tools"/>
+    <img src="https://skillicons.dev/icons?i=python,c,react,cs,nodejs,dotnet,opencv,html,css,js,mysql,postman,vscode,git,visualstudio" alt="Technology Stack and Tools"/>
   </a>
 </div>

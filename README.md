@@ -1,7 +1,7 @@
 <h2 align="left">Ahoy there. I'm Kushagra.</h2>
 
 
-  As a student with a solid technical foundation, Web development is where I’ve found my stride. Yet, my journey doesn’t stop there—I’m diving into Full Stack development with JavaScript, eager to blend my frontend skills with the power of backend solutions.
+  As a student with a solid technical foundation, Web development is where I’ve found my stride. Currently expanding my exposure into Full Stack development with JavaScript, eager to blend my frontend skills with the power of backend solutions.
 
 Merging UX principles with backend logic to create interfaces built on clean architecture. Delivers software that is intuitive, stable, and scalable.
 
